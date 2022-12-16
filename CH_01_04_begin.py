@@ -5,9 +5,9 @@ import click
 
 
 def sleep_and_print(seconds):
-    print(f"starting {seconds} sleep 😴")
+    print(f"starting {seconds} sleep  	u\'U0001F634' ")
     time.sleep(seconds)
-    print(f"finished {seconds} sleep ⏰")
+    print(f"finished {seconds} sleep u\'u23F0' ")
     return seconds
 
 
